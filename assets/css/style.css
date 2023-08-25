@@ -9442,15 +9442,18 @@ Buy Now Btn
 .buy-now-btn {
   right: 30px;
   z-index: 99;
-  top: 50%;
+  top: 80%;
   position: fixed;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   border-radius: 30px;
   display: inline-block;
   color: var(--white-color) !important;
-  background-color: #82b440;
-  padding: 8px 20px 8px;
+  background-image: url("https://sprsinfotech.cloud/assets/images/icons/whatsapp.png");
+  background-repeat: no-repeat, no-repeat;
+  width:64px;
+height:64px;
+padding: 8px 20px 8px;
   font-size: 14px;
   font-weight: 500;
   -webkit-animation-name: tada;

@@ -481,10 +481,11 @@ jQuery(function ($) {
 		var scrolled = $(window).scrollTop();
 		if (scrolled > 600) $('.go-top').addClass('active');
 		if (scrolled < 600) $('.go-top').removeClass('active');
-	});  
+	});
 	$('.go-top').on('click', function() {
 		$("html, body").animate({ scrollTop: "0" },  500);
 	});
+
 	
 	// Preloader JS
 	jQuery(window).on('load',function(){
@@ -492,13 +493,18 @@ jQuery(function ($) {
 	});
 
 	// Buy Now Btn
-	$('body').append("<a href='#' target='_blank' class='buy-now-btn'>Call Us</a>");
-
+	$('body').append("<button id='openWhatsAppButton' class='buy-now-btn'></button>");
+	$('#openWhatsAppButton').on('click',function() {
+		openWhatsApp();
+	});
 	// Switch Btn
 	$('body').append("<div class='switch-box'><label id='switch' class='switch'><input type='checkbox' onchange='toggleTheme()' id='slider'><span class='slider round'></span></label></div>"); 
-
 }(jQuery));
-
+function openWhatsApp() {
+    const phoneNumber = "919051135603";
+    const url = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=Hi, I'm interested in your services.`;
+    window.open(url, "_blank");
+}
 // function to set a given theme/color-scheme
 function setTheme(themeName) {
     localStorage.setItem('coze_theme', themeName);

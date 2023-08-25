@@ -3,8 +3,7 @@
          <div class="container">
              <div class="page-banner-content" data-aos="fade-right" data-aos-delay="50" data-aos-duration="500"
                  data-aos-once="true">
-                 <h2>About Style Two</h2>
-
+                 <h2>About Us</h2>
                  <ul>
                      <li>
                          <a href="index.html">Home</a>
@@ -22,8 +21,8 @@
              <div class="row align-items-center">
                  <div class="col-lg-6 col-md-12">
                      <div class="about-image" data-tilt>
-                         <img src="assets/images/about/about.png" alt="image" data-aos="fade-down" data-aos-delay="80"
-                             data-aos-duration="800" data-aos-once="true">
+                         <img src="<?=base_url();?>/assets/images/about/about.png" alt="image" data-aos="fade-down"
+                             data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                      </div>
                  </div>
                  <div class="col-lg-6 col-md-12">
@@ -32,11 +31,10 @@
                          <span>WHO WE ARE</span>
                          <h3>We Are <b>All In One</b> IT Solution & Technology Company <span class="overlay"></span>
                          </h3>
-                         <p>We are leading technology solutions providing company all over the world doing over 40 years
-                             lorem ipsum dolor sit amet.</p>
-                         <p>We are leading technology solutions providing company all over the world doing over 40
-                             years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam non umy eirmod
-                             tempor invidunt ut labore.</p>
+                         <p>We are a team of dedicated professionals committed to delivering top-notch IT solutions
+                             tailored to meet the unique needs of businesses worldwide. With a passion for technology
+                             and a focus on customer satisfaction, we have earned our reputation as a trusted partner in
+                             the ever-evolving world of Information Technology.</p>
                          <div class="about-btn">
                              <a href="about-style-1.html" class="default-btn">Know More About Us</a>
                          </div>
@@ -45,19 +43,20 @@
              </div>
          </div>
          <div class="about-shape-1">
-             <img src="assets/images/about/about-shape.png" alt="image">
+             <img src="<?=base_url();?>/assets/images/about/about-shape.png" alt="image">
          </div>
      </div>
      <!-- End About Area -->
-
      <!-- Start Choose Area -->
      <div class="choose-area border-none pt-100 pb-75">
          <div class="container">
              <div class="section-title">
                  <span>WHY CHOOSE US</span>
                  <h2>We Help You To <b>Increase</b> Your Sale Through Solutions <span class="overlay"></span></h2>
-                 <p>We are leading technology solutions providing company all over the world doing over 40 years lorem
-                     ipsum dolor sit amet.</p>
+                 <p>Our mission is to empower businesses with the right technological tools and strategies that drive
+                     growth, enhance efficiency, and foster innovation. We believe in creating lasting partnerships,
+                     where we work hand in hand with our clients, guiding them through the digital landscape, and
+                     ensuring their success in a competitive marketplace.</p>
              </div>
 
              <div class="row">
@@ -65,8 +64,8 @@
                      <div class="single-choose-card" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500"
                          data-aos-once="true">
                          <div class="choose-image" data-tilt>
-                             <a href="services-details.html"><img src="assets/images/choose/choose-1.png"
-                                     alt="image"></a>
+                             <a href="services-details.html"><img
+                                     src="<?=base_url();?>/assets/images/choose/choose-1.png" alt="image"></a>
                          </div>
                          <div class="choose-content">
                              <h3>
@@ -82,8 +81,8 @@
                      <div class="single-choose-card" data-aos="fade-up" data-aos-delay="60" data-aos-duration="600"
                          data-aos-once="true">
                          <div class="choose-image" data-tilt>
-                             <a href="services-details.html"><img src="assets/images/choose/choose-2.png"
-                                     alt="image"></a>
+                             <a href="services-details.html"><img
+                                     src="<?=base_url();?>/assets/images/choose/choose-2.png" alt="image"></a>
                          </div>
                          <div class="choose-content">
                              <h3>
@@ -99,8 +98,8 @@
                      <div class="single-choose-card" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700"
                          data-aos-once="true">
                          <div class="choose-image" data-tilt>
-                             <a href="services-details.html"><img src="assets/images/choose/choose-3.png"
-                                     alt="image"></a>
+                             <a href="services-details.html"><img
+                                     src="<?=base_url();?>/assets/images/choose/choose-3.png" alt="image"></a>
                          </div>
                          <div class="choose-content">
                              <h3>
@@ -116,8 +115,8 @@
                      <div class="single-choose-card" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800"
                          data-aos-once="true">
                          <div class="choose-image" data-tilt>
-                             <a href="services-details.html"><img src="assets/images/choose/choose-4.png"
-                                     alt="image"></a>
+                             <a href="services-details.html"><img
+                                     src="<?=base_url();?>/assets/images/choose/choose-4.png" alt="image"></a>
                          </div>
                          <div class="choose-content">
                              <h3>
@@ -132,10 +131,10 @@
          </div>
 
          <div class="choose-shape-1">
-             <img src="assets/images/choose/choose-shape.png" alt="image">
+             <img src="<?=base_url();?>/assets/images/choose/choose-shape.png" alt="image">
          </div>
          <div class="choose-shape-2">
-             <img src="assets/images/choose/choose-shape-2.png" alt="image">
+             <img src="<?=base_url();?>/assets/images/choose/choose-shape-2.png" alt="image">
          </div>
      </div>
      <!-- End Choose Area -->
@@ -146,7 +145,7 @@
              <div class="video-view-content" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800"
                  data-aos-once="true">
                  <div class="video-image">
-                     <img src="assets/images/video/video.jpg" alt="image">
+                     <img src="<?=base_url();?>/assets/images/video/video.jpg" alt="image">
                  </div>
 
                  <a href="https://www.youtube.com/watch?v=ODfy2YIKS1M" class="video-btn popup-youtube">
@@ -240,13 +239,13 @@
                  <div class="col-lg-6 col-md-12">
                      <div class="skill-image" data-aos="fade-left" data-aos-delay="80" data-aos-duration="800"
                          data-aos-once="true">
-                         <img src="assets/images/skill/skill-1.png" alt="image" data-tilt>
+                         <img src="<?=base_url();?>/assets/images/skill/skill-1.png" alt="image" data-tilt>
 
                          <div class="skill-shape-1">
-                             <img src="assets/images/skill/skill-shape-1.png" alt="image">
+                             <img src="<?=base_url();?>/assets/images/skill/skill-shape-1.png" alt="image">
                          </div>
                          <div class="skill-shape-2">
-                             <img src="assets/images/skill/skill-shape-2.png" alt="image">
+                             <img src="<?=base_url();?>/assets/images/skill/skill-shape-2.png" alt="image">
                          </div>
                      </div>
                  </div>
@@ -254,7 +253,7 @@
          </div>
 
          <div class="skill-bg-shape">
-             <img src="assets/images/skill/skill-bg-shape.png" alt="image">
+             <img src="<?=base_url();?>/assets/images/skill/skill-bg-shape.png" alt="image">
          </div>
      </div>
      <!-- End Skill Area -->
@@ -330,13 +329,13 @@
          </div>
 
          <div class="pricing-bg-shape-1">
-             <img src="assets/images/pricing/pricing-bg-shape.png" alt="image">
+             <img src="<?=base_url();?>/assets/images/pricing/pricing-bg-shape.png" alt="image">
          </div>
          <div class="pricing-shape-1">
-             <img src="assets/images/pricing/pricing-shape-1.png" alt="image">
+             <img src="<?=base_url();?>/assets/images/pricing/pricing-shape-1.png" alt="image">
          </div>
          <div class="pricing-shape-2">
-             <img src="assets/images/pricing/pricing-shape-2.png" alt="image">
+             <img src="<?=base_url();?>/assets/images/pricing/pricing-shape-2.png" alt="image">
          </div>
      </div>
      <!-- End Pricing Area -->
@@ -365,22 +364,22 @@
                      <div class="testimonials-item" data-aos="fade-left" data-aos-delay="80" data-aos-duration="800"
                          data-aos-once="true">
                          <div class="item-box" data-tilt>
-                             <img src="assets/images/testimonials/testimonials-1.jpg" class="rounded-circle"
-                                 alt="image">
+                             <img src="<?=base_url();?>/assets/images/testimonials/testimonials-1.jpg"
+                                 class="rounded-circle" alt="image">
                              <p>Lorem ipsum dolor sit amet consetetur sadips cin go elitr sed diam nonumy eirmod.</p>
                              <h4>Herry Hopper, <span>Solit Team</span></h4>
                          </div>
 
                          <div class="item-box" data-tilt>
-                             <img src="assets/images/testimonials/testimonials-2.jpg" class="rounded-circle"
-                                 alt="image">
+                             <img src="<?=base_url();?>/assets/images/testimonials/testimonials-2.jpg"
+                                 class="rounded-circle" alt="image">
                              <p>Lorem ipsum dolor sit amet consetetur sadips cin go elitr sed diam nonumy eirmod.</p>
                              <h4>Daniel John, <span>Spix Team</span></h4>
                          </div>
 
                          <div class="item-box" data-tilt>
-                             <img src="assets/images/testimonials/testimonials-3.jpg" class="rounded-circle"
-                                 alt="image">
+                             <img src="<?=base_url();?>/assets/images/testimonials/testimonials-3.jpg"
+                                 class="rounded-circle" alt="image">
                              <p>Lorem ipsum dolor sit amet consetetur sadips cin go elitr sed diam nonumy eirmod.</p>
                              <h4>Zinnia, <span>Coze Team</span></h4>
                          </div>
@@ -390,7 +389,7 @@
          </div>
 
          <div class="testimonialsbg-shape">
-             <img src="assets/images/testimonials/testimonials-shape.png" alt="image">
+             <img src="<?=base_url();?>/assets/images/testimonials/testimonials-shape.png" alt="image">
          </div>
      </div>
      <!-- End Testimonials Area -->
@@ -401,10 +400,10 @@
              <div class="row align-items-center">
                  <div class="col-lg-6 col-md-12">
                      <div class="talk-image" data-tilt>
-                         <img src="assets/images/talk/talk-2.png" alt="image">
+                         <img src="<?=base_url();?>/assets/images/talk/talk-2.png" alt="image">
 
                          <div class="talk-circle">
-                             <img src="assets/images/talk/talk-circle.png" alt="image">
+                             <img src="<?=base_url();?>/assets/images/talk/talk-circle.png" alt="image">
                          </div>
                      </div>
                  </div>

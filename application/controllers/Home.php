@@ -48,14 +48,51 @@ class Home extends CI_Controller
 		$this->load->view('templates/footer');
 	}
 
-	public function services()
+	public function mobileapps()
 	{
 		$this->load->view('templates/head');
 		$this->load->view('templates/header');
 		$this->load->view('templates/topbar');
 		$this->load->view('templates/nav');
 		$this->load->view('templates/sidebar');
-		$this->load->view('pages/servicelist');
+		$this->load->view('pages/mobileapps');
+		$this->load->view('templates/shortcontact');
+		$this->load->view('templates/footer');
+	}
+
+	public function seos()
+	{
+		$this->load->view('templates/head');
+		$this->load->view('templates/header');
+		$this->load->view('templates/topbar');
+		$this->load->view('templates/nav');
+		$this->load->view('templates/sidebar');
+		$this->load->view('pages/seos');
+		$this->load->view('templates/shortcontact');
+		$this->load->view('templates/footer');
+	}
+
+	public function brandings()
+	{
+		$this->load->view('templates/head');
+		$this->load->view('templates/header');
+		$this->load->view('templates/topbar');
+		$this->load->view('templates/nav');
+		$this->load->view('templates/sidebar');
+		$this->load->view('pages/brandings');
+		$this->load->view('templates/shortcontact');
+		$this->load->view('templates/footer');
+	}
+
+	public function graphicdesigns()
+	{
+		$this->load->view('templates/head');
+		$this->load->view('templates/header');
+		$this->load->view('templates/topbar');
+		$this->load->view('templates/nav');
+		$this->load->view('templates/sidebar');
+		$this->load->view('pages/graphicdesigns');
+		$this->load->view('templates/shortcontact');
 		$this->load->view('templates/footer');
 	}
 

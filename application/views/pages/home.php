@@ -8,9 +8,8 @@
                           ARE LEADING TECHNOLOGY SOLUTIONS PROVIDING COMPANY</span>
                       <h1 data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">We Are
                           Digital Agency & Tech Solution <span class="overlay"></span></h1>
-                      <p data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">We are
-                          leading technology solutions providing company all over the world doing over 40 years. Lorem
-                          ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor.</p>
+                      <p data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">"Where
+                          Creativity Meets Technology"</p>
 
                       <div class="slides-btn" data-aos="fade-right" data-aos-delay="70" data-aos-duration="700"
                           data-aos-once="true">
@@ -27,9 +26,8 @@
                           ARE LEADING TECHNOLOGY SOLUTIONS PROVIDING COMPANY</span>
                       <h1 data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
                           Excellent IT Services For Your Success <span class="overlay"></span></h1>
-                      <p data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">We are
-                          leading technology solutions providing company all over the world doing over 40 years. Lorem
-                          ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor.</p>
+                      <p data-aos="fade-right" data-aos-delay="70" data-aos-duration="700" data-aos-once="true">
+                          "Strategize. Create. Thrive."</p>
 
                       <div class="slides-btn" data-aos="fade-right" data-aos-delay="70" data-aos-duration="700"
                           data-aos-once="true">
@@ -86,11 +84,11 @@
                       data-aos-once="true">
                       <span>WHO WE ARE</span>
                       <h3>We Are All In One IT Solution & Technology Company <span class="overlay"></span></h3>
-                      <p>We are leading technology solutions providing company all over the world doing over 40 years
-                          lorem ipsum dolor sit amet.</p>
-                      <p>We are leading technology solutions providing company all over the world doing over 40 years.
-                          Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam non umy eirmod tempor invidunt
-                          ut labore.</p>
+                      <p>We are a team of dedicated professionals committed to delivering top-notch IT solutions
+                          tailored to meet the unique needs of businesses worldwide. With a passion for technology and a
+                          focus on customer satisfaction, we have earned our reputation as a trusted partner in the
+                          ever-evolving world of Information Technology.</p>
+                      <p>"Empowering Your Digital Success"</p>
                       <div class="about-btn">
                           <a href="about-style-1.html" class="default-btn">Know More About Us</a>
                       </div>
@@ -126,8 +124,9 @@
                           <h3>
                               <a href="services-details.html">Mobile Apps</a>
                           </h3>
-                          <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt
-                              ut labore.</p>
+                          <p>The company creates mobile applications for iOS and Android platforms. They can develop
+                              native apps or leverage cross-platform development tools like React Native or Flutter to
+                              build apps that run on multiple devices.</p>
                       </div>
                   </div>
               </div>
@@ -143,8 +142,10 @@
                           <h3>
                               <a href="services-details.html">Branding Strategy</a>
                           </h3>
-                          <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt
-                              ut labore.</p>
+                          <p> In today's fast-paced and competitive business landscape, effective branding is the key to
+                              establishing a strong and lasting presence. At SPRS Infotech, we understand the
+                              significance of branding and how it can make a significant impact on your company's
+                              success.</p>
                       </div>
                   </div>
               </div>
@@ -160,8 +161,8 @@
                           <h3>
                               <a href="services-details.html">Graphic Design</a>
                           </h3>
-                          <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt
-                              ut labore.</p>
+                          <p>This content page delves into the realm of graphic designs and showcases how they can
+                              elevate your software development company's visual identity to new heights.</p>
                       </div>
                   </div>
               </div>
@@ -177,8 +178,8 @@
                           <h3>
                               <a href="services-details.html">Search Optimization</a>
                           </h3>
-                          <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eirm od tempor invidunt
-                              ut labore.</p>
+                          <p>We will explore the significance of SEO and SMM services and their immense potential in
+                              unlocking success for businesses of all sizes.</p>
                       </div>
                   </div>
               </div>
@@ -220,7 +221,7 @@
                       </div>
                   </div>
 
-                  <div class="skill-bar" data-percentage="80%" data-aos="fade-up" data-aos-delay="60"
+                  <div class="skill-bar" data-percentage="96%" data-aos="fade-up" data-aos-delay="60"
                       data-aos-duration="600" data-aos-once="true">
                       <p class="progress-title-holder">
                           <span class="progress-title">App Development</span>
@@ -302,8 +303,6 @@
           <div class="section-title">
               <span>SERVICES</span>
               <h2>We Provide the Best Quality <b>Services</b> <span class="overlay"></span></h2>
-              <p>We are technology solutions providing company all over the world doing over 40 years. lorem ipsum dolor
-                  sit amet.</p>
           </div>
 
           <div class="row justify-content-center">
@@ -484,89 +483,6 @@
       </div>
   </div>
   <!-- End Projects Area -->
-
-  <!-- Start Pricing Area -->
-  <div class="pricing-area with-black-background margin-zero pt-100 pb-75">
-      <div class="container">
-          <div class="section-title">
-              <span>PRICING</span>
-              <h2>Our <b>Pricing</b> For All Type Of Technology Services <span class="overlay"></span></h2>
-              <p>We are leading technology solutions providing company all over the world doing over 40 years lorem
-                  ipsum dolor sit amet.</p>
-          </div>
-
-          <div class="row justify-content-center">
-              <div class="col-lg-4 col-md-6">
-                  <div class="single-pricing-card" data-aos="fade-up" data-aos-delay="70" data-aos-duration="700"
-                      data-aos-once="true">
-                      <h3>Startup</h3>
-                      <div class="price">$19 <span>/ month</span></div>
-                      <p>Lorem ipsum dolor sit amet consetetur sadi scing elitr sed diam nonumy eirmod.</p>
-
-                      <ul class="pricing-list">
-                          <li><i class="ri-check-fill"></i> Lorem ipsum dolor.</li>
-                          <li><i class="ri-check-fill"></i> Sit amet consetetur set a ledip.</li>
-                      </ul>
-                      <div class="pricing-btn">
-                          <a href="pricing.html" class="default-btn">Choose Plan</a>
-                      </div>
-                  </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6">
-                  <div class="single-pricing-card" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800"
-                      data-aos-once="true">
-                      <h3>Basic</h3>
-                      <div class="price">$49 <span>/ month</span></div>
-                      <p>Lorem ipsum dolor sit amet consetetur sadi scing elitr sed diam nonumy eirmod.</p>
-
-                      <ul class="pricing-list">
-                          <li><i class="ri-check-fill"></i> Lorem ipsum dolor.</li>
-                          <li><i class="ri-check-fill"></i> Sit amet consetetur set a ledip.</li>
-                          <li><i class="ri-check-fill"></i> Lorems Sit ledip ipsum dolor.</li>
-                      </ul>
-                      <div class="pricing-btn">
-                          <a href="pricing.html" class="default-btn">Choose Plan</a>
-                      </div>
-                      <div class="most-popular">
-                          <span>Most Popular</span>
-                      </div>
-                  </div>
-              </div>
-
-              <div class="col-lg-4 col-md-6">
-                  <div class="single-pricing-card" data-aos="fade-up" data-aos-delay="90" data-aos-duration="900"
-                      data-aos-once="true">
-                      <h3>Advanced</h3>
-                      <div class="price">$79 <span>/ month</span></div>
-                      <p>Lorem ipsum dolor sit amet consetetur sadi scing elitr sed diam nonumy eirmod.</p>
-
-                      <ul class="pricing-list">
-                          <li><i class="ri-check-fill"></i> Lorem ipsum dolor.</li>
-                          <li><i class="ri-check-fill"></i> Sit amet consetetur set a ledip.</li>
-                          <li><i class="ri-check-fill"></i> Lorems Sit ledip ipsum dolor.</li>
-                          <li><i class="ri-check-fill"></i> Lorem ipsum dolor.</li>
-                      </ul>
-                      <div class="pricing-btn">
-                          <a href="pricing.html" class="default-btn">Choose Plan</a>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
-
-      <div class="pricing-bg-shape-1">
-          <img src="<?=base_url();?>assets/images/pricing/pricing-bg-shape.png" alt="image">
-      </div>
-      <div class="pricing-shape-1">
-          <img src="<?=base_url();?>assets/images/pricing/pricing-shape-1.png" alt="image">
-      </div>
-      <div class="pricing-shape-2">
-          <img src="<?=base_url();?>assets/images/pricing/pricing-shape-2.png" alt="image">
-      </div>
-  </div>
-  <!-- End Pricing Area -->
-
   <!-- Start Testimonials Area -->
   <div class="testimonials-area ptb-100">
       <div class="container-fluid">
@@ -578,8 +494,9 @@
           <div class="testimonials-slides owl-carousel owl-theme">
               <div class="single-testimonials-card" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500"
                   data-aos-once="true">
-                  <p>We look and sound so good! I am still in shock at how smooth this process was. The professionalism,
-                      collaboration and the design they come up is great.</p>
+                  <p>"Working with Sprs Infotech Solutions was a game-changer for our business. Their team of talented
+                      developers brought our vision to life with precision and creativity. The result was a cutting-edge
+                      software solution that exceeded our expectations."</p>
 
                   <div class="info-item-box">
                       <img src="<?=base_url();?>assets/images/testimonials/testimonials-4.jpg" class="rounded-circle"
@@ -616,8 +533,9 @@
 
               <div class="single-testimonials-card" data-aos="fade-up" data-aos-delay="60" data-aos-duration="600"
                   data-aos-once="true">
-                  <p>We look and sound so good! I am still in shock at how smooth this process was. The professionalism,
-                      collaboration and the design they come up is great.</p>
+                  <p>"Sprs Infotech delivered on their promise of quality and efficiency. Their attention to
+                      detail and seamless communication made the development process a breeze. We highly recommend them
+                      for any software project."</p>
 
                   <div class="info-item-box">
                       <img src="<?=base_url();?>assets/images/testimonials/testimonials-6.jpg" class="rounded-circle"
@@ -725,112 +643,3 @@
       </div>
   </div>
   <!-- End Partner Area -->
-
-  <!-- Start Blog Area -->
-  <div class="blog-area pt-100 pb-75">
-      <div class="container">
-          <div class="section-title">
-              <span>ARTICLE</span>
-              <h2>Read Our Blog To Get All Recent Tech <b>News</b> <span class="overlay"></span></h2>
-          </div>
-
-          <div class="blog-slides owl-carousel owl-theme">
-              <div class="blog-card" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800"
-                  data-aos-once="true">
-                  <div class="row align-items-center">
-                      <div class="col-lg-6">
-                          <div class="blog-image">
-                              <a href="single-blog-1.html"><img src="<?=base_url();?>assets/images/blog/blog-1.jpg"
-                                      alt="image"></a>
-                          </div>
-                      </div>
-                      <div class="col-lg-6">
-                          <div class="blog-content">
-                              <div class="date">9th July, 2022</div>
-                              <h3>
-                                  <a href="single-blog-1.html">How Technology Dominate In The new World In 2022</a>
-                              </h3>
-                              <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eir m od tempor
-                                  invidunt ut labore.</p>
-                              <a href="single-blog-1.html" class="blog-btn">View More</a>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-
-              <div class="blog-card" data-aos="fade-up" data-aos-delay="890" data-aos-duration="900"
-                  data-aos-once="true">
-                  <div class="row align-items-center">
-                      <div class="col-lg-6">
-                          <div class="blog-image">
-                              <a href="single-blog-1.html"><img src="<?=base_url();?>assets/images/blog/blog-2.jpg"
-                                      alt="image"></a>
-                          </div>
-                      </div>
-                      <div class="col-lg-6">
-                          <div class="blog-content">
-                              <div class="date">7th July, 2022</div>
-                              <h3>
-                                  <a href="single-blog-1.html">Top 10 Most Famous Technology Trend In 2022</a>
-                              </h3>
-                              <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eir m od tempor
-                                  invidunt ut labore.</p>
-                              <a href="single-blog-1.html" class="blog-btn">View More</a>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-
-              <div class="blog-card" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800"
-                  data-aos-once="true">
-                  <div class="row align-items-center">
-                      <div class="col-lg-6">
-                          <div class="blog-image">
-                              <a href="single-blog-1.html"><img src="<?=base_url();?>assets/images/blog/blog-1.jpg"
-                                      alt="image"></a>
-                          </div>
-                      </div>
-                      <div class="col-lg-6">
-                          <div class="blog-content">
-                              <div class="date">9th July, 2022</div>
-                              <h3>
-                                  <a href="single-blog-1.html">How Technology Dominate In The new World In 2022</a>
-                              </h3>
-                              <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eir m od tempor
-                                  invidunt ut labore.</p>
-                              <a href="single-blog-1.html" class="blog-btn">View More</a>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-
-              <div class="blog-card" data-aos="fade-up" data-aos-delay="90" data-aos-duration="900"
-                  data-aos-once="true">
-                  <div class="row align-items-center">
-                      <div class="col-lg-6">
-                          <div class="blog-image">
-                              <a href="single-blog-1.html"><img src="<?=base_url();?>assets/images/blog/blog-2.jpg"
-                                      alt="image"></a>
-                          </div>
-                      </div>
-                      <div class="col-lg-6">
-                          <div class="blog-content">
-                              <div class="date">7th July, 2022</div>
-                              <h3>
-                                  <a href="single-blog-1.html">Top 10 Most Famous Technology Trend In 2022</a>
-                              </h3>
-                              <p>Lorem ipsum dolor sit amet conset sadipscing elitr sed diam nonumy eir m od tempor
-                                  invidunt ut labore.</p>
-                              <a href="single-blog-1.html" class="blog-btn">View More</a>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
-
-      <div class="blog-shape-1">
-          <img src="<?=base_url();?>assets/images/blog/blog-shape-1.png" alt="image">
-      </div>
-  </div>
-  <!-- End Blog Area -->

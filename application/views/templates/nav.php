@@ -18,7 +18,6 @@
                  <a class="navbar-brand" href="<?= base_url(); ?>">
                      <img src="<?= base_url(); ?>assets/images/logo.png" alt="image">
                  </a>
-
                  <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                      <ul class="navbar-nav ms-auto">
                          <li class="nav-item">
@@ -42,19 +41,23 @@
                                  </li>
                              </ul>
                          </li>
-
                          <li class="nav-item">
                              <a href="#" class="nav-link">
                                  Services
                                  <i class="ri-arrow-down-s-line"></i>
                              </a>
-
                              <ul class="dropdown-menu">
                                  <li class="nav-item">
-                                     <a href="/home/services/" class="nav-link">Services</a>
+                                     <a href="/home/mobileapps/" class="nav-link">Mobile App</a>
                                  </li>
                                  <li class="nav-item">
-                                     <a href="services-details.html" class="nav-link">Services Details</a>
+                                     <a href="/home/brandings/" class="nav-link">Brandings</a>
+                                 </li>
+                                 <li class="nav-item">
+                                     <a href="/home/graphicdesigns/" class="nav-link">Graphic Designs</a>
+                                 </li>
+                                 <li class="nav-item">
+                                     <a href="/home/seos/" class="nav-link">Seo & Smm</a>
                                  </li>
                              </ul>
                          </li>
@@ -111,8 +114,8 @@
                                      <a href="coming-soon.html" class="nav-link">Coming Soon</a>
                                  </li>
                              </ul>
-                         </li>
- -->
+                         </li>-->
+
                          <li class="nav-item">
                              <a href="#" class="nav-link">
                                  Projects

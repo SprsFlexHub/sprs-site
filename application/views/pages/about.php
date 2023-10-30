@@ -39,6 +39,24 @@
                              <a href="about-style-1.html" class="default-btn">Know More About Us</a>
                          </div>
                      </div>
+                     <div class="about-content" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800"
+                         data-aos-once="true">
+                         <span> Contact Us</span>
+                         <h3>We Are <b>All In One</b> IT Solution & Technology Company <span class="overlay"></span>
+                         </h3>
+                         <p>
+                             You may contact us using the information below: </br>
+                             Merchant Legal entity name: SPRS INFOTECH OPC PRIVATE LIMITED</br>
+                             Registered Address: Saltlake, Sec-V, KOLKATA 700091, Kolkata, West Bengal, PIN: 700077</br>
+                             Operational Address: RABINDRANATH TAGORE ROAD, LP-164/11/4, KOLKATA 700077, Kolkata,</br>
+                             West Bengal, PIN: 700077</br>
+                             Telephone No: 9051135603</br>
+                             E-Mail ID: sprsinfotech@gmail.com
+                         </p>
+                         <div class="about-btn">
+                             <a href="about-style-1.html" class="default-btn">Know More About Us</a>
+                         </div>
+                     </div>
                  </div>
              </div>
          </div>
